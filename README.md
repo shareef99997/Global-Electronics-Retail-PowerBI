@@ -1,121 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Electronics Retailer - Power BI Dashboard</title>
-</head>
-<body>
+# 📌 Global Electronics Retailer - Power BI Dashboard  
+📊 **Advanced Power BI Project | Dynamic KPIs | Multi-Table Data Modeling | SQL-Ready Architecture**  
 
-<h1>📌 Global Electronics Retailer - Power BI Dashboard</h1>
-<h3>📊 Advanced Power BI Project | Dynamic KPIs | Multi-Table Data Modeling | SQL-Ready Architecture</h3>
+<img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/overview.png" />
 
-<hr>
+---
 
-<h2>🔍 Project Overview</h2>
-<p>
-    This project is a <b>comprehensive Power BI dashboard</b> designed for a <b>global electronics retailer</b>, 
-    providing <b>deep business insights</b> into sales performance, customer demographics, store performance, and order efficiency.
-</p>
+## 🔍 Project Overview  
+This Power BI project delivers **executive-level business insights** for a **global electronics retailer**, transforming raw data into **actionable intelligence.**  
 
-<h3>🚀 Key Objectives</h3>
-<ul>
-    <li>✅ Provide executives with high-level business insights.</li>
-    <li>✅ Enable interactive KPI switching with button-based navigation.</li>
-    <li>✅ Analyze multi-year trends in sales, customer behavior, and logistics.</li>
-    <li>✅ Optimize decision-making with well-structured data modeling & relationships.</li>
-</ul>
+### 🚀 Key Objectives  
+✅ Provide **business executives** with interactive analytics  
+✅ **Analyze** multi-year **sales, customer behavior, and order trends**  
+✅ Enable **KPI switching** with **button-based dynamic selection**  
+✅ Optimize **decision-making with well-structured data modeling**  
 
-<hr>
+---
 
-<h2>📂 Dataset & Data Modeling</h2>
-<ul>
-    <li>🔹 <b>Dataset:</b> Multi-table structured dataset covering <b>sales, customers, products, exchange rates, stores, and deliveries</b>.</li>
-    <li>🔹 <b>Relationships:</b> One-to-many and many-to-many resolved via an <b>Exchange Bridge table</b>.</li>
-    <li>🔹 <b>Data Cleaning & Transformations:</b>
-        <ul>
-            <li>✅ Calculated columns for <b>Age, Order Processing Time, Profit, Store Age, and CLV</b>.</li>
-            <li>✅ Currency conversion using <b>Exchange Rates & Date Relationships</b>.</li>
-            <li>✅ Categorization of <b>customer age groups & product segments</b>.</li>
-        </ul>
-    </li>
-</ul>
+## 📂 Dataset & Data Modeling  
+🔹 **Multi-Table Dataset** covering **Sales, Customers, Products, Exchange Rates, Stores**  
+🔹 **One-to-Many & Many-to-Many Relationships** handled via an **Exchange Bridge Table**  
+🔹 **Key Transformations:**  
+   - ✅ Created **Customer Age Groups** for segmentation  
+   - ✅ Calculated **Profit, CLV, Store Age** for deeper insights  
+   - ✅ Applied **Currency Conversion** using Exchange Rates  
 
-<hr>
+![Data Model](your_screenshot_datamodel.png)
 
-<h2>📊 Power BI Features & Techniques Used</h2>
+---
 
-<h3>🔹 1. Multi-Page Interactive Dashboard</h3>
-<ul>
-    <li>✅ <b>Overview Page:</b> Dynamic KPIs & quick insights.</li>
-    <li>✅ <b>Sales Performance Page:</b> Category & product-level trends.</li>
-    <li>✅ <b>Customer Demographics Page:</b> Customer segmentation & lifetime value.</li>
-    <li>✅ <b>Store Performance Page:</b> Sales by store location, store size, and age.</li>
-    <li>✅ <b>Order & Delivery Insights Page:</b> On-time vs. delayed orders & processing time.</li>
-</ul>
+## 📊 Power BI Features & Techniques Used  
+### 🔹 1. Multi-Page Interactive Dashboard  
+✅ **Overview Page:** Dynamic KPIs & business summary  
+✅ **Sales Performance Page:** Product & revenue trends  
+✅ **Customer Demographics Page:** Customer segmentation & lifetime value  
+✅ **Store Performance Page:** Store size vs. revenue analysis  
+✅ **Order & Delivery Insights:** Delayed vs. On-Time orders  
 
-<h3>🔹 2. Advanced Power BI Features</h3>
-<ul>
-    <li>✅ 🔀 <b>Dynamic KPI Switching</b> – Users can toggle between different KPIs (Total Sales, Orders, CLV, etc.) using buttons.</li>
-    <li>✅ 📌 <b>Bookmark-Based Navigation</b> – Easy page transitions for enhanced usability.</li>
-    <li>✅ 📈 <b>Trend Analysis with DAX Measures</b> – Multi-year revenue, customer trends, and store growth.</li>
-    <li>✅ 📊 <b>Multi-Layer Data Modeling</b> – Relationships across tables ensure accurate calculations & aggregations.</li>
-    <li>✅ 🔎 <b>Global Filtering System</b> – Slicers for <b>date range, region, product category, and customer segmentation</b>.</li>
-</ul>
+### 🔹 2. Advanced Power BI Features  
+✅ **Dynamic KPI Switching** – KPI card updates based on button clicks  
+✅ **Multi-Layer Data Modeling** – Ensures **accurate aggregations**  
+✅ **Bookmark-Based Navigation** – Smooth page transitions  
+✅ **Conditional Formatting & Trend Analysis** – Highlights top/bottom performers  
 
-<hr>
+![Sales Performance Page](your_screenshot_sales.png)  
+![Order & Delivery Page](your_screenshot_orders.png)  
 
-<h2>📈 Key Insights & Business Value</h2>
-<ul>
-    <li>🔹 <b>Top-Selling Products & Categories:</b> Identified most profitable categories & brands to refine inventory strategy.</li>
-    <li>🔹 <b>Customer Segmentation:</b> Analyzed buying behavior by age & gender to optimize marketing campaigns.</li>
-    <li>🔹 <b>Store Performance Optimization:</b> Evaluated store size vs. sales to determine store expansion strategies.</li>
-    <li>🔹 <b>Order Processing Efficiency:</b> Highlighted delayed order trends by region & year to improve logistics.</li>
-</ul>
+---
 
-<hr>
+## 📈 Key Insights & Business Value  
+🔹 **High Revenue Categories:** Identified **top-selling product categories**  
+🔹 **Customer Behavior:** **50+ age group has the highest CLV**  
+🔹 **Store Optimization:** Larger stores ≠ higher sales → **Efficiency matters**  
+🔹 **Delivery Trends:** Orders were **delayed most frequently in 2019**  
 
-<h2>🛠️ How to Use the Dashboard</h2>
-<ol>
-    <li>📌 <b>Download the .PBIX file</b> and open it in Power BI Desktop.</li>
-    <li>📌 <b>Use the navigation sidebar</b> to switch between insights pages.</li>
-    <li>📌 <b>Interact with filters & KPI buttons</b> to explore different business metrics.</li>
-    <li>📌 <b>Analyze trends and export reports</b> for decision-making.</li>
-</ol>
+---
 
-<hr>
+## 🛠️ How to Use the Dashboard  
+1️⃣ **Download the `.pbix` file** and open it in Power BI Desktop  
+2️⃣ **Use the sidebar** to switch between insights pages  
+3️⃣ **Click KPI buttons** to dynamically change metrics  
 
-<h2>💡 Why This Project Stands Out</h2>
-<p>🚀 <b>Not Just Another Power BI Dashboard!</b></p>
-<p>This project <b>goes beyond basic visualizations</b> by incorporating:</p>
-<ul>
-    <li>✅ <b>Advanced DAX Calculations</b> for deep business insights.</li>
-    <li>✅ <b>Interactive KPI Selection System</b> (buttons, not slicers).</li>
-    <li>✅ <b>Well-Designed UX/UI for Professional Presentation</b>.</li>
-    <li>✅ <b>Scalable Data Model – Can Connect to SQL for Real-Time Updates</b>.</li>
-</ul>
+👉 **[📥 Download Full Power BI Report (.pbix)](https://github.com/shareef99997/global-electronics-retail-powerbi/raw/refs/heads/main/Global%20Electronics%20Retailer%20Report.pbix)**  
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
-<p>
-Hi, I'm <b>Sharif</b>, a passionate <b>Data Analyst</b> with expertise in <b>Power BI, SQL, and data storytelling</b>.
-</p>
+## 💡 Why This Project Stands Out  
+🚀 **Not Just Another Power BI Dashboard!**  
+✅ **Interactive KPI Switching** – Clickable buttons, NOT slicers  
+✅ **Scalable Data Model** – Can integrate with SQL for real-time updates  
+✅ **Advanced DAX Measures** – Deep business intelligence insights  
 
-<p>📬 <b>Let’s connect!</b> Feel free to check out my other projects or reach out on <b>LinkedIn/GitHub</b>.</p>
+---
 
-<ul>
-    <li>🔗 <a href="https://github.com/shareef99997">GitHub Portfolio</a></li>
-    <li>🔗 <a href="https://www.linkedin.com/in/shareef-ali/">LinkedIn</a></li>
-    <li>🔗 <a href=" ‏www.shareefdev.com‏">Personal Websitw</a></li>
-</ul>
+## 👨‍💻 About Me  
+Hi, I'm **Sharif**, a passionate **Data Analyst** with expertise in **Power BI, SQL, and data storytelling**.  
 
-<hr>
+📬 **Let’s connect!** Check out my other projects or reach out:  
 
-<h2>📥 Download & Explore</h2>
-<p>📌 <a href="https://github.com/shareef99997/global-electronics-retail-powerbi/raw/refs/heads/main/Global%20Electronics%20Retailer%20Report.pbix"><b>Download the Full Power BI Report (.pbix)</b></a></p>
+🔗 **[GitHub Portfolio](https://github.com/shareef99997)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/shareef-ali/)**  
+🔗 **[Personal Website](https://www.shareefdev.com)**  
 
-<p>📢 If you find this project valuable, consider giving it a ⭐ on GitHub!</p>
+📢 **If you find this project valuable, give it a ⭐ on GitHub!** ⭐  
 
-</body>
-</html>
+---
+
+## 🏆 Final Notes  
+🔥 **This README is designed to stand out!** It’s recruiter-friendly and structured to highlight **your data analysis & Power BI expertise.** 🚀 Let me know if you need tweaks!  
