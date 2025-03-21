@@ -102,7 +102,7 @@ This Power BI project delivers **executive-level business insights** for a **glo
 ---
 
 ## 👨‍💻 About Me  
-Hi, I'm **Sharif**, a passionate **Data Analyst** with expertise in **Power BI, SQL, and data storytelling**.  
+Hi, I'm **Shareef Ali**, a passionate **Data Analyst** with expertise in **Power BI, SQL, and Python**.  
 
 📬 **Let’s connect!** Check out my other projects or reach out:  
 
