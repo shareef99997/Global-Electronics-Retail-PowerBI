@@ -1,7 +1,7 @@
 # 📌 Global Electronics Retailer - Power BI Dashboard  
 📊 **Advanced Power BI Project | Dynamic KPIs | Multi-Table Data Modeling | SQL-Ready Architecture**  
 
-![Dashboard Preview](your_screenshot_overview.png)
+[![Dashboard Preview]()](https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/overview.png)
 
 ---
 
