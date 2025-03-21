@@ -31,7 +31,7 @@ This Power BI project delivers **executive-level business insights** for a **glo
 <p align="center">
     <b>Data Model</b>  
     <br>
-    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/data%20model.pngalt="Data Model""  width="800">
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/data%20model.png" alt="Data Model"  width="800">
 </p>
 
 ---
