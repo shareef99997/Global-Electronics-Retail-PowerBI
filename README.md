@@ -1,7 +1,11 @@
 # 📌 Global Electronics Retailer - Power BI Dashboard  
 📊 **Advanced Power BI Project | Dynamic KPIs | Multi-Table Data Modeling | SQL-Ready Architecture**  
 
-<img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/overview.png" />
+<p align="center">
+    <b>Dashboard Overview</b>  
+    <br>
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/overview.png" alt="Dashboard Overview" width="800">
+</p>
 
 ---
 
@@ -24,7 +28,11 @@ This Power BI project delivers **executive-level business insights** for a **glo
    - ✅ Calculated **Profit, CLV, Store Age** for deeper insights  
    - ✅ Applied **Currency Conversion** using Exchange Rates  
 
-![Data Model](your_screenshot_datamodel.png)
+<p align="center">
+    <b>Data Model</b>  
+    <br>
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/data%20model.pngalt="Data Model""  width="800">
+</p>
 
 ---
 
@@ -42,8 +50,29 @@ This Power BI project delivers **executive-level business insights** for a **glo
 ✅ **Bookmark-Based Navigation** – Smooth page transitions  
 ✅ **Conditional Formatting & Trend Analysis** – Highlights top/bottom performers  
 
-![Sales Performance Page](your_screenshot_sales.png)  
-![Order & Delivery Page](your_screenshot_orders.png)  
+<p align="center">
+    <b>Sales Performance Page</b>  
+    <br>
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/Sales%20Performance.png" alt="Sales Performance Page" width="800">
+</p>
+
+<p align="center">
+    <b>Order & Delivery Insights</b>  
+    <br>
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/order%20%26%20delivery.png" alt="Order & Delivery Page" width="800">
+</p>
+
+<p align="center">
+    <b>Customer Demography</b>  
+    <br>
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/customer%20demograpghy.png" alt="Order & Delivery Page" width="800">
+</p>
+
+<p align="center">
+    <b>Store Performance.png</b>  
+    <br>
+    <img src="https://github.com/shareef99997/global-electronics-retail-powerbi/blob/main/Assets/Screenshots/store%20performance.png" alt="Order & Delivery Page" width="800">
+</p>
 
 ---
 
