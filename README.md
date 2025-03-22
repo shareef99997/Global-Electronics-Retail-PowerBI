@@ -111,8 +111,3 @@ Hi, I'm **Shareef Ali**, a passionate **Data Analyst** with expertise in **Power
 🔗 **[Personal Website](https://www.shareefdev.com)**  
 
 📢 **If you find this project valuable, give it a ⭐ on GitHub!** ⭐  
-
----
-
-## 🏆 Final Notes  
-🔥 **This README is designed to stand out!** It’s recruiter-friendly and structured to highlight **your data analysis & Power BI expertise.** 🚀 Let me know if you need tweaks!  
