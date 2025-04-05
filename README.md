@@ -1,5 +1,6 @@
 # 📌 Global Electronics Retailer - Power BI Dashboard  
 📊 **Advanced Power BI Project | Dynamic KPIs | Multi-Table Data Modeling | SQL-Ready Architecture**  
+🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNjE0MDllZDgtMTkyOC00NzM3LTlhNzEtOWRlZmVlNGFjMTZhIiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9)** 
 
 <p align="center">
     <b>Dashboard Overview</b>  
@@ -90,7 +91,7 @@ This Power BI project delivers **executive-level business insights** for a **glo
 3️⃣ **Click KPI buttons** to dynamically change metrics  
 
 👉 **[📥 Download Full Power BI Report (.pbix)](https://github.com/shareef99997/global-electronics-retail-powerbi/raw/refs/heads/main/Global%20Electronics%20Retailer%20Report.pbix)**  
-
+🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNjE0MDllZDgtMTkyOC00NzM3LTlhNzEtOWRlZmVlNGFjMTZhIiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9)** 
 ---
 
 ## 💡 Why This Project Stands Out  
