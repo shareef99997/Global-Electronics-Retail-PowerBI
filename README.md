@@ -1,4 +1,4 @@
-# 📌 Global Electronics Retailer - Power BI Dashboard  
+# 📌 Global Electronics Retailer - Power BI Report  
 📊 **Advanced Power BI Project | Dynamic KPIs | Multi-Table Data Modeling | SQL-Ready Architecture**  
 🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNjE0MDllZDgtMTkyOC00NzM3LTlhNzEtOWRlZmVlNGFjMTZhIiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9)** 
 
